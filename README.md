@@ -32,6 +32,10 @@
 
 <br/>
 
+<a href="https://github.com/gimwise">엉망진창인 이전 깃헙</a>
+
+<br/>
+
 <hr/><br/>
 
 <h4>TECH STACK</h4> <br/>
