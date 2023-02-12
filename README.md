@@ -28,7 +28,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
 
 <h5>안녕, 나는 덜 익은 도토리</h5>
-<h5>푸른 잔디밭에 뛰어놀 </h5>
+<h5>푸른 잔디밭에 뛰어놀 때까지</h5>
 
 <br/>
 
