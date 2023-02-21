@@ -10,7 +10,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://wistful-tuberose-ce4.notion.site/e8c93e292ea6473dafc4c6f6a24562c0](https://thin-frigate-1a3.notion.site/Ah-Puh-Ah-Puh-5f8413bffdf24310a119bb0007db7a1f">
+<a href="https://wistful-tuberose-ce4.notion.site/e8c93e292ea6473dafc4c6f6a24562c0](https://thin-frigate-1a3.notion.site/Ah-Puh-Ah-Puh-5f8413bffdf24310a119bb0007db7a1f](https://www.notion.so/Ah-Puh-Ah-Puh-5f8413bffdf24310a119bb0007db7a1f?pvs=4">
     <img 
         src="http://img.shields.io/badge/-DEV%20BLOG-697a55?style=flat&logo=github&link=https://wistful-tuberose-ce4.notion.site/e8c93e292ea6473dafc4c6f6a24562c0"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
