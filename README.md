@@ -27,9 +27,6 @@
         src="https://mblogthumb-phinf.pstatic.net/MjAxODAzMTRfNTIg/MDAxNTIwOTg5Njk5ODIz.ZG7kG1tWkiVkPmmTLZtgPnu7xRr02PbQyGK2AJwBdRwg.8St2mAhkc2vZC1usKXQhlWWMLGksSle3H_cMMZt5GWQg.GIF.admario/16221fd43663c8dd1.gif?type=w2"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
 
-<h5>안녕, 나는 덜 익은 도토리</h5>
-<h5>푸른 잔디밭에 뛰어놀 때까지</h5>
-
 <br/>
 
 <a href="https://github.com/gimwise">엉망진창인 이전 깃헙</a>
