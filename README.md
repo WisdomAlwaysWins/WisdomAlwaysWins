@@ -1,19 +1,14 @@
-<div style="border: 1px solid red;" align=center><h3>🔥 자유로운 우리를 봐 자유로워 🔥</h3></div>
+<div style="border: 1px solid red;" align=center><h3>🔥 자유로운 우리를 봐, 자유로워 🔥</h3></div>
 
 <br/>
 
 <div align=center>
 
-<a href="mailto:knowisdom314@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/GMAIL-c4aa88?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knowisdom314@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <br/><br/>
 
  <img 
         src="https://pbs.twimg.com/media/FnxRG0qaIAESqoI.jpg"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
+        width="200" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
 
 <br/>
 
