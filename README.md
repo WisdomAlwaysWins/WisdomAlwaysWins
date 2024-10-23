@@ -4,8 +4,6 @@
 
 <div align=center>
 
-<br/><br/>
-
  <img 
         src="https://pbs.twimg.com/media/FnxRG0qaIAESqoI.jpg"
         width="200" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
