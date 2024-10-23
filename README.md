@@ -1,4 +1,4 @@
-<div style="border: 1px solid red;" align=center><h3>🌿 Journey to GREEN LAWNS 🌿</h3></div>
+<div style="border: 1px solid red;" align=center><h3>🔥 자유로운 우리를 봐 자유로워 🔥</h3></div>
 
 <br/>
 
@@ -9,12 +9,6 @@
         src="https://img.shields.io/badge/GMAIL-c4aa88?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knowisdom314@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-<a href="https://www.instagram.com/__jae_jae_/">
-    <img 
-        src="http://img.shields.io/badge/-INSTA-87240E?style=flat&logo=Instagram&link=https://www.instagram.com/__jae_jae_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
 <br/><br/>
 
  <img 
