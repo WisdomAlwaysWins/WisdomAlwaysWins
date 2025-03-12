@@ -1,4 +1,4 @@
-<div style="border: 1px solid red;" align=center><h3>🔥 자유로운 우리를 봐, 자유로워 🔥</h3></div>
+<div style="border: 1px solid red;" align=center><h3>🔥 고민하지마, 일단 해! 🔥</h3></div>
 
 <br/>
 
