@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=white"/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WisdomAlwaysWins)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
